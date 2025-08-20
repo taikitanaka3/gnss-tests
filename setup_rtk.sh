@@ -7,3 +7,5 @@ cd RTKLIB/lib/iers/gcc/
 make
 cd ../../../app
 make
+
+sudo apt install -y libgeographic-dev 
